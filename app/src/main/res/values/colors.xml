@@ -1,0 +1,13 @@
+<resources>
+    <color name="home_background">#0E1120</color>
+    <color name="surface">#161A2B</color>
+    <color name="surface_focused">#20263C</color>
+    <color name="accent">#FFAF2E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_secondary">#AEB3C5</color>
+    <color name="play_button_text">#101321</color>
+    <color name="launcher_background">#00081A</color>
+    <!-- Kept for the unused legacy placeholder drawable from the TV template. -->
+    <color name="background_gradient_start">#0E1120</color>
+    <color name="background_gradient_end">#161A2B</color>
+</resources>

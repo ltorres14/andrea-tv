@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Andrea TV</string>
+    <string name="search">Buscar</string>
+    <string name="settings">Configuración</string>
+    <string name="featured_label">Estreno destacado</string>
+    <string name="featured_title">Más allá del horizonte</string>
+    <string name="featured_metadata">2026  ·  Ciencia ficción  ·  1 h 48 min</string>
+    <string name="play">Reproducir</string>
+    <string name="popular_movies">Películas populares</string>
+    <string name="series">Series</string>
+</resources>
